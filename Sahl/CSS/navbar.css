@@ -1,0 +1,36 @@
+body {
+  padding-bottom: 20px; 
+
+}
+/*nav-bar style start*/
+.navbar {
+  margin-bottom: 20px;
+}
+/*nav-bar end style*/
+/*  Cover style start*/
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+}
+.cover-container {
+  max-width: 42em;
+}
+.intro{
+
+text-align: left;
+
+}
+.lead{
+  text-align: center;
+}
+/*Cover style end*/
+/*footer style*/
+.sa{
+  display:inline-flex;
+  flex-direction: row;
+  gap: 67%;
+  
+}
